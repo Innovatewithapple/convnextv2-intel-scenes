@@ -10,7 +10,7 @@ The project achieved strong validation performance and was also tested on extern
 
 ## Notebook Links
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/#fileId=https%3A//storage.googleapis.com/kaggle-colab-exported-notebooks/mihirvyas/cnnintelclassification.6d007670-ba0d-4926-aa1f-6aa08d841c26.ipynb%3FX-Goog-Algorithm%3DGOOG4-RSA-SHA256%26X-Goog-Credential%3Dgcp-kaggle-com%2540kaggle-161607.iam.gserviceaccount.com/20260520/auto/storage/goog4_request%26X-Goog-Date%3D20260520T125827Z%26X-Goog-Expires%3D259200%26X-Goog-SignedHeaders%3Dhost%26X-Goog-Signature%3D99eb47f312fbbef3fd72f23b89fd73d77b156e565109bff50ef5b3b1cbecc9e9e46fb7e8c2bfae72ecb04fdd8f604c6678af685d937e70fe98a7ae15227d5887e12436e0e4e399350594d73f007945b3d676afb1ba24ad362d172e3a36ba8f9e4e027c12c35d251a43d1cb9c29b4a6274fc0158fe65b8c3c23042985067a5afac3797cd8199ae028739a34b0153ef2fa69b9acc96d65779aaee6796d61c23365071fd7ff700c78033c529cfeac4a605ca335f66724c96266796fcd24cec0111dba3541b1653b179e33d82a4ff92f7eaee08caca58359eaecaa9a0f8afccf28e5e1769f5284826a2eac4b0188c9e353e92a8a9762131da56db95a88207030c4a1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_k8wSGIv3wtyRfYmjVdS8n_IQ2dpy-z9?usp=sharing)
 
 [![View In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/mihirvyas/cnnintelclassification)
 
